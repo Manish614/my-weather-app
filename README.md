@@ -21,10 +21,10 @@ It fetches data from the **OpenWeatherMap API** and displays details like **temp
 
 ## Demo & Images
 
-![Search Location](./demo1.jpeg)  
+![Search Location](./demo1.png)  
 *Enter Location and Search*
 
-![Know the Weather Conditions](./demo2.jpeg)  
+![Know the Weather Conditions](./demo2.png)  
 *Know temperature, weather condition, humidity, and wind speed*
 
 ---
